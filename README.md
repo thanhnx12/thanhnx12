@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I'm Thanh Nguyen, you can call me Thanh!
+I'm an AI Engineer, specialize in optimize model performance!
+I live in Hanoi - Viet Nam.
 <!--
 **thanhnx12/thanhnx12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
